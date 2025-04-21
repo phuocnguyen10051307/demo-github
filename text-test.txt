@@ -1,0 +1,4 @@
+git status( kiểm tra trang thái files)
+git add . (thêm file)
+git commit -m "Message " (tạo nội dung commit)
+git push origin main 
